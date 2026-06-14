@@ -1,0 +1,6 @@
+{
+  "name": "Predictive ML Lab",
+  "description": "Interactive environment for training and evaluating Linear Regression, Logistic Regression, and Decision Trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
